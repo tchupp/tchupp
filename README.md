@@ -1,5 +1,5 @@
 # Hi! I'm Theo
-### I help people build better software through first principles
+### I help people build better software by understanding first principles
 
 <!--
 **tchupp/tchupp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
