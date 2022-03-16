@@ -1,7 +1,7 @@
 # Hi! I'm Theo
 ### I help people build better software
 
-[![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tchupp)](https://github.com/anuraghazra/github-readme-stats)
+[![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tchupp)](https://github-readme-stats.vercel.app/api?username=tchupp)
 
 
 <!--
